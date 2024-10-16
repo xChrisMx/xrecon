@@ -12,4 +12,4 @@ Tools built in script:
 - Dmitry (DNS  Deep Info Gathering tool -- Catch subdomains, email addresses, uptime info, etc).
 - Fierce (DNS Interrogation tool used to locate non-contiguous IP spaces and hostnames against specified domains or subdomains).  This tool alone will probably yield a bunch of vuln hosts.
 
-![image](https://github.com/user-attachments/assets/db61d355-a2c5-4272-a487-1c8ae05e6516)
+![image](https://github.com/user-attachments/assets/bc0a4408-2132-4650-90de-8b5dd5d917d9)
