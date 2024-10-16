@@ -5,7 +5,7 @@
 #          identify, assess and mitigate potential attack vectors.
 #          This script is work in progress and will most likely evolve.
 #
-# Usage:  python3 jwrecon.py
+# Usage:  python3 xrecon.py
 #               or
 #         chmod +x xrecon.py
 #         ./xrecon.py
