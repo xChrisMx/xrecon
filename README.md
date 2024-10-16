@@ -2,7 +2,7 @@ Usage: python3 jwrecon.py
 or
 chmod +x jwrecon.py and ./jerecon.py
 
-Latest versions have Dmitry and Fierce scans (Fierce is very very useful and powerful).
+Latest versions have Dmitry and Fierce scans.  This script is/was made for a project of my needs, feel free to modify/contribute as needed.
 
 Tools built in script:
 - Nikto/Nuclei (detect web app vulns; poor man's scanner :D)
@@ -11,3 +11,5 @@ Tools built in script:
 - What Web (Identify Web Technologies used)
 - Dmitry (DNS  Deep Info Gathering tool -- Catch subdomains, email addresses, uptime info, etc).
 - Fierce (DNS Interrogation tool used to locate non-contiguous IP spaces and hostnames against specified domains or subdomains).  This tool alone will probably yield a bunch of vuln hosts.
+
+![image](https://github.com/user-attachments/assets/db61d355-a2c5-4272-a487-1c8ae05e6516)
