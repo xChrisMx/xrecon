@@ -2,7 +2,7 @@ Usage: python3 jwrecon.py
 or
 chmod +x jwrecon.py and ./jerecon.py
 
-Latest versions have Dmitry and Fierce scans.  This script is/was made for a project of my needs, feel free to modify/contribute as needed.
+Latest versions have Dmitry and Fierce scans.  This script was made for a project of my needs, feel free to modify/contribute as needed.
 
 Tools built in script:
 - Nikto/Nuclei (detect web app vulns; poor man's scanner :D)
